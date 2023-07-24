@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" class="icon flat-color" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
-  <title>bimi-svg-tiny-12-ps</title>
-  <path id="primary" d="M13.41,15.41a2,2,0,0,1-2.83,0l-4-4a2,2,0,0,1,0-2.83,2,2,0,0,1,2.82,0L12,11.17l6.63-6.63a10,10,0,1,0,3.15,9.53,9.87,9.87,0,0,0-.73-6.29Z" fill="rgb(0, 0, 0)"/>
-  <path id="secondary" d="M12,15a1,1,0,0,1-.71-.29l-4-4A1,1,0,1,1,8.71,9.29L12,12.59l8.29-8.3a1,1,0,1,1,1.42,1.42l-9,9A1,1,0,0,1,12,15Z" fill="rgb(44, 169, 188)"/>
-</svg>
