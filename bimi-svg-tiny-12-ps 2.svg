@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg viewBox="0 0 32 32" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <g id="layer1" transform="translate(0 -1020.4)">
+    <path id="path3788" d="m28.107 15.339a13.744 13.744 0 1 1 -27.489 0 13.744 13.744 0 1 1 27.489 0z" transform="matrix(1.0744 0 0 1.0744 .56833 1019.9)" stroke-linejoin="round" stroke="#555555" stroke-linecap="round" stroke-width="2.2954" fill="none"/>
+    <path id="path3014" d="m28.031 1021.2c-0.82326-0.01-1.633 0.4669-2.0312 1.1875l-10.656 16.75-5.8125-5.6875c-0.74433-0.981-2.3323-1.1704-3.2865-0.392-0.95417 0.7784-1.0875 2.3721-0.27599 3.2983l7.9062 9.6875c0.94186 1.1271 3.0077 0.955 3.75-0.3125l12.344-21.031c0.42171-0.6897 0.44152-1.6067 0.04999-2.3139-0.39153-0.7073-1.1791-1.1773-1.9875-1.1861z" color="#000000" fill="#324f85"/>
+  </g>
+</svg>
